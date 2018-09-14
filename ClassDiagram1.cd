@@ -1,0 +1,446 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Otomasyon.AnaForm" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>Y16TSAuB/CMkYSjZceXsHDmCYQxNYC2EEiQFBgpED6g=</HashCode>
+      <FileName>AnaForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.DataSetler" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAgAAwAAAAJBBAAAQAAIAAgCQBgAAAAAAAGAFBA=</HashCode>
+      <FileName>DataSetler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.frmAyar" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAABCAAAAAAgACAQACCQAIA0AsAAEAEAIAEAAA=</HashCode>
+      <FileName>frmAyar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.frmLoginform" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACABAAAIAICAAAACAAIGAAkAAQAAAAAAABA=</HashCode>
+      <FileName>frmLoginform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Program" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.DataSetlerTableAdapters.VW_FATURALARTableAdapter" Collapsed="true">
+    <Position X="11" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.DataSetlerTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABAEBAAAAMAAgAAACgAAAAAQAAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Fonksiyonlar.DatabaseDataContext" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>hTGKgABUBIIAEAACAiMBYCASAW2AMCCAGI3MsUSADIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Fonksiyonlar.TBL_BANKAHAREKETLERI" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BCDgISkBRAyosACAUCGGAKkBiSQAAIMISFBgCIMEACA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Otomasyon.Fonksiyonlar.TBL_STOKLAR" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>gUipGAElATAAmgRSQSEEUACBjPAAJCUigRgAGgAEgaA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Otomasyon.Fonksiyonlar.TBL_BANKALAR" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgUhCCERCADhgIJAQSssGGlhmSAIQgKICBAgAAgEEgA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Otomasyon.Fonksiyonlar.TBL_BORDROLAR" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.5" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ACAgACEBQACgkAAAUCGFAKkBiSAAAAMICFAgAAEEEAE=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Otomasyon.Fonksiyonlar.TBL_CARIHAREKETLERI" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ICAgACEBQACosAAAUCGEEKnRibQAAAOISFBgQIEECCA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Otomasyon.Fonksiyonlar.TBL_CARILER" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BABggGEBIADkgBBQSCPMAWlRiaxARwMKKR0gBkCk/Uo=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Otomasyon.Fonksiyonlar.TBL_CARİGRUPLARI" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>gEAgACETACCggAAAQCEEACkBiSAAAAIJCBAgAABEAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Otomasyon.Fonksiyonlar.TBL_FATURALAR" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>DKggQKEZEIDgkAEYUDkEAKkBiSKAAAIOCFEhSMA0ACA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Otomasyon.Fonksiyonlar.TBL_IRSALIYELER" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>DCAwAKEXAADgkAoAUCEEBKkJiSAAgAIMCFAgAgAEAAg=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Otomasyon.Fonksiyonlar.TBL_KASAHAREKETLERI" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BCDgASkBQAyosACAUCGGAKkBiSQAAIMISFBkAIEEACg=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Otomasyon.Fonksiyonlar.TBL_KASALAR" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ACAgwCEBAACgkAAAWCEEAKkBiaAACAIICFAgAAAECAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Otomasyon.Fonksiyonlar.TBL_KULLANICILAR" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgAiIAGBAAiAqAAAQAEECQlBmyQAAAAICBJCEAAUUAg=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Otomasyon.Fonksiyonlar.TBL_STOKGRUPLARI" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.5" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>gEAgAAAzECABgAAAQAkEAAAxiCAQAAABABIZAAFGBAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Otomasyon.Fonksiyonlar.TBL_STOKHAREKETLERI" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AABwQCENAQjkoAYAQCEUEC1RjSAAAIaMKBAgQoCkgAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Otomasyon.Fonksiyonlar.VW_BANKADURUM" Collapsed="true">
+    <Position X="4" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAABAgAAAAgAAAAAAAIAAAAAQAAQAAAAEAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Fonksiyonlar.VW_KASALISTESI" Collapsed="true">
+    <Position X="2.25" Y="7.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ACAAgEAAAABAgAAAGgAAAIAAAIAACAAQAAQAAAAEAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Fonksiyonlar.VW_BANKAHAREKETLERI" Collapsed="true">
+    <Position X="5.75" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BAQBAQgAAARgsAAAEgCAAIAgAAQAAAEQQAQACAMEACA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Fonksiyonlar.VW_BANKALISTESI" Collapsed="true">
+    <Position X="7.5" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQBCEAAAABggAAAAgAAEAAgAIAAAAAYAAQAAAgEAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Fonksiyonlar.VW_FATURALAR" Collapsed="true">
+    <Position X="9.25" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BChAwIAIADCAMAQAEAkIEKjBGBJAAAUAAQAAAACEwAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Fonksiyonlar.VW_KALEMLER" Collapsed="true">
+    <Position X="12.75" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAMADAAqAQAAAEAEAiAEBAAAAQEAAAAQoCEgAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Fonksiyonlar.VW_KASADURUM" Collapsed="true">
+    <Position X="14.5" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAUAAAABAAAAAAgAAAAAAAIAAAAEQAAQAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Fonksiyonlar.VW_KASAHAREKETLERI" Collapsed="true">
+    <Position X="0.5" Y="7.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BCBAgQgAAABAsAAAGgCAAIAAAAQACAEQQAQAAAEEQCA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Fonksiyonlar.Formlar" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAEAAABAAAACAKAAAJCAgAAINEGBAAQAAgAIAIM=</HashCode>
+      <FileName>Fonksiyonlar\Formlar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Fonksiyonlar.Mesajlar" Collapsed="true">
+    <Position X="12.75" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAABAAAAAAAEAAAAwAAAAABAAAAAAAAEAAA=</HashCode>
+      <FileName>Fonksiyonlar\Mesajlar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Fonksiyonlar.Numara" Collapsed="true">
+    <Position X="14.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACABAAAAAAQAAAAAAABA=</HashCode>
+      <FileName>Fonksiyonlar\Numara.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Fonksiyonlar.Resimleme" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Fonksiyonlar\Resimleme.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Modul_Banka.frmBankaAcilisKarti" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>mAAAAACAADAghEIoALCEkFAagIIB/AuCAQAAggCAAFA=</HashCode>
+      <FileName>Modul_Banka\frmBankaAcilisKarti.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Modul_Banka.frmBankaHareketleri" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgAEAQCgAKBElEgoAACAAIASQAIAVCvAQQQBhEABADA=</HashCode>
+      <FileName>Modul_Banka\frmBankaHareketleri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Modul_Banka.frmBankaIslem" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>CgAQAAAAACAAIEAAAACFgFASwIMA2AuGAQAAhgCVAFA=</HashCode>
+      <FileName>Modul_Banka\frmBankaIslem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Modul_Banka.frmBankaListesi" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAGAADBghFAIAACAEAA6AIAAAACIEgwAgAACCBA=</HashCode>
+      <FileName>Modul_Banka\frmBankaListesi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Modul_Banka.frmParaTransfer" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>GgAAAAAAACAAAEAgAACFgFASwIIA/AuGSQGAhgCVDVA=</HashCode>
+      <FileName>Modul_Banka\frmParaTransfer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Modul_Cari.frmCariAcilisKarti" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>mAQAAAkAACAAyGEgAECGgVATwIqp/BvCqTDBFgCAUVA=</HashCode>
+      <FileName>Modul_Cari\frmCariAcilisKarti.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Modul_Cari.frmCariGruplari" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAGCADAAhGAoAAKEgFAawIIAAAkCAQAAAgCAABA=</HashCode>
+      <FileName>Modul_Cari\frmCariGruplari.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Modul_Cari.frmCariHareketleri" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQCAACBAgAAAAACAAIACQAIAVAuASAQAAAAAACA=</HashCode>
+      <FileName>Modul_Cari\frmCariHareketleri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Modul_Cari.frmCariListesi" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AADggAGAADAAhFAIAACAABASAIAAAAAAGAiACAACABA=</HashCode>
+      <FileName>Modul_Cari\frmCariListesi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Modul_Cek.frmBankayaCekCikisi" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>CgAAAAAAACAEAgIkAACBgBCSwIIB/AsEASAAliSQARA=</HashCode>
+      <FileName>Modul_Cek\frmBankayaCekCikisi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Modul_Cek.frmCariyeCekCikisi" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>GAAAAAAAACAEAgIgAACBgFCSwIIA/AsGCQGAFiCQAVA=</HashCode>
+      <FileName>Modul_Cek\frmCariyeCekCikisi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Modul_Cek.frmCekListesi" Collapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAwACGAACAAhlAIAACIABASAYAEgAAAAggAAAASCJA=</HashCode>
+      <FileName>Modul_Cek\frmCekListesi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Modul_Cek.frmKendiCekimiz" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>CgAAAAAAACAEAgIgAACEgFASQIIA/AsGAYAAhgSRAFA=</HashCode>
+      <FileName>Modul_Cek\frmKendiCekimiz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Modul_Cek.frmMusteriCeki" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>GAAQAAgAACAEAgIAQACAgVASgIKA/AsGCQGChgCQAVA=</HashCode>
+      <FileName>Modul_Cek\frmMusteriCeki.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Modul_Fatura.frmFaturaListesi" Collapsed="true">
+    <Position X="14.5" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ACAgAEGAACAAgFBYAImAIAAaAIIAAAAAAggABEACABA=</HashCode>
+      <FileName>Modul_Fatura\frmFaturaListesi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Modul_Fatura.frmSatisFaturasi" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>mCCASFqgjCEYIEAwAIiGoRAS+K6A/gvSKQLBhgDgERA=</HashCode>
+      <FileName>Modul_Fatura\frmSatisFaturasi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Modul_Fatura.rprSatisFaturasi" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>FCAQBgAAiTAAAYKIAAiAAABCAAAAAAAQAAAAAAAACAQ=</HashCode>
+      <FileName>Modul_Fatura\rprSatisFaturasi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Modul_Istatistik.frmBankaIstatistik" Collapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAgAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Modul_Istatistik\frmBankaIstatistik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Modul_Istatistik.frmKasaIstatistik" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAgAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Modul_Istatistik\frmKasaIstatistik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Modul_Kasa.frmKasaAcilisKarti" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>CCAAgACAADAAjEAoAACEgNAagIIADAkCCQCAAgCAABA=</HashCode>
+      <FileName>Modul_Kasa\frmKasaAcilisKarti.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Modul_Kasa.frmKasaDevirIslem" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAgAACAAIAAgAACFgFASQIMgPAsGCRGABgCAAVA=</HashCode>
+      <FileName>Modul_Kasa\frmKasaDevirIslem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Modul_Kasa.frmKasaHareketleri" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAABAQDgACRElFgoAACAIIACQgIAFAtASQSABEAAAXA=</HashCode>
+      <FileName>Modul_Kasa\frmKasaHareketleri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Modul_Kasa.frmKasaListesi" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ACCggAGAADBAhFAIAACAAIAaAIAAAAAAGgyAAAACABA=</HashCode>
+      <FileName>Modul_Kasa\frmKasaListesi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Modul_Kasa.frmKasaTahsilatOdeme" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>GAAAABAAACAAAAAgAACFgFASQKIA/AsGCQGAJgCQAVA=</HashCode>
+      <FileName>Modul_Kasa\frmKasaTahsilatOdeme.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Modul_Kullanici.frmKullaniciPanel" Collapsed="true">
+    <Position X="12.75" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAFAAACFAgAFIAACBgCEKAAAg0AsAAQAAEAAAANI=</HashCode>
+      <FileName>Modul_Kullanici\frmKullaniciPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Modul_Kullanici.frmKullaniciYonetimi" Collapsed="true">
+    <Position X="14.5" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAABGAACAAqAAIYACAIAACgEAAIgAACQAABAAQABg=</HashCode>
+      <FileName>Modul_Kullanici\frmKullaniciYonetimi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Modul_Stok.frmStokGruplari" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAGCADAAhGAoAAKEgFASwIIAAAkCAQAAAgCAgBA=</HashCode>
+      <FileName>Modul_Stok\frmStokGruplari.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Modul_Stok.frmStokKarti" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAgEACEgKiIgAAKUgVAawL4h/wuKAQABBgDAANA=</HashCode>
+      <FileName>Modul_Stok\frmStokKarti.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Modul_Stok.frmStokListesi" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAgAACAADEBhFAIAACIEEAaAZABAgAAEggAAAASAJA=</HashCode>
+      <FileName>Modul_Stok\frmStokListesi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Properties.Resources" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>xIreFKUVrIjdmFIBQlCRdm4im4xDEyEm8vNMhQSbgK4=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Otomasyon.Properties.Settings" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAgCAAAAAAAIAAAAAABAAAgABAAAAAAAgQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
